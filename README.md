@@ -7,4 +7,4 @@ Github. If the people that made the original addon for MWB want me to take this 
 - Required Addons:
 - [ARC9 Weapon Base](https://steamcommunity.com/sharedfiles/filedetails/?id=2910505837)
 - [[ARC9] Modern Warfare 2019](https://steamcommunity.com/sharedfiles/filedetails/?id=3258297368)
-- [ARC9] Modern Warfare 2019 Shared Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3258299652)
+- [[ARC9] Modern Warfare 2019 Shared Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3258299652)
