@@ -9,4 +9,4 @@ So now that MW2019 is on the Steam Workshop, I decide to move this texture pack 
 - [[ARC9] Modern Warfare 2019 Shared Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3258299652)
 
 If it doesn't work, try to pull it out of the MW2019 folders fromm the folder the file extractor made. If it still doesn't work, report the issue.
-![alt text](https://github.com/Error4-22/-ARC9-Modern-Warfare-2019-SCAR-H-s-Black-Sun-texture/edit/main/reload.gif?raw=true)
+![alt text](https://github.com/Error4-22/-ARC9-Modern-Warfare-2019-SCAR-H-s-Black-Sun-texture/edit/main/reload.gif)
