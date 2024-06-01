@@ -1,3 +1,4 @@
+![Untitled video - Made with Clipchamp (1)](https://github.com/Error4-22/-ARC9-Modern-Warfare-2019-SCAR-H-s-Black-Sun-texture/assets/123397897/68aecb84-ee3e-4d3e-a587-e429322e3bc7)
 # -ARC9-Modern-Warfare-2019-SCAR-H-s-Black-Sun-texture
 So now that MW2019 is on the Steam Workshop, I decide to move this texture pack for the SCAR-H to ARC9 as well, seeing this was from MWB. Idk how make this into a camo, so it's just an entire texture replacement, so if you want the base FDE skin you'll have to uninstall this addon. But also because of that, you'll have to download the files itself via Github. If the people that made the original addon for MWB want me to take this down, they can contact me via Steam DM's.
 
@@ -9,4 +10,3 @@ So now that MW2019 is on the Steam Workshop, I decide to move this texture pack 
 - [[ARC9] Modern Warfare 2019 Shared Pack](https://steamcommunity.com/sharedfiles/filedetails/?id=3258299652)
 
 If it doesn't work, try to pull it out of the MW2019 folders fromm the folder the file extractor made. If it still doesn't work, report the issue.
-<gif src="https://github.com/CurlySparkle/ARC9-COD2019/assets/12680810/1de3b3fb-e867-4343-8ce9-1a69a53b5dad](https://github.com/Error4-22/-ARC9-Modern-Warfare-2019-SCAR-H-s-Black-Sun-texture/edit/main/reload" />
